@@ -65,5 +65,5 @@ To check code coverage locally, run:
 To preview `dartdoc` output locally, run:
 
 ```shell
-./chore dartodc
+./chore dartdoc
 ```
